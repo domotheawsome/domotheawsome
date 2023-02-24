@@ -5,7 +5,7 @@ My name is Ariel.
 I'm passionate about creating, writing and imagining software, particularly in machine learning and web development. 
 
 - 🎈 I'm a ...
-  - Student at Oregon State University.
+  - Student at <a href="https://oregonstate.edu/">Oregon State University</a>.
   - Research assistant at CQLS working on infrastructure and operating systems.
   - Peer tutor helping out with JS, Python, and C. 
   - Human... maybe... 😉
