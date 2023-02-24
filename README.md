@@ -19,12 +19,12 @@ I'm passionate about creating, writing and imagining software, particularly in m
   - Mamba over Python.
   - Typescript?
   - At OSU... 
-    - CS 381: Programming Language Fundamentals (functional programming!).
-    - CS 494: Advanced Web Development (crash course in React!).
-    - CS 492: Mobile Web Development (Android Studio!).
+    - CS 381: Programming Language Fundamentals (functional programming!)
+    - CS 494: Advanced Web Development (crash course in React!)
+    - CS 492: Mobile Web Development (Android Studio!)
 
 - ⚡ Fun fact: ...
-  - I'm studying to be a classical guitarist! 
+  - I play classical guitar!
     Ask me anything about the romantic musical period + South American classical guitar. 
 
 <!--
