@@ -4,11 +4,11 @@ My name is Ariel.
 
 I'm passionate about software, particularly in machine learning and web development. 
 
-- 🎈 I'm ...
-  - A student at Oregon State University.
-  - A research assistant at CQLS working on infrastructure and operating systems.
-  - A peer tutor helping out with JS, Python, and C. 
-  - A human... maybe... 😉
+- 🎈 I'm a ...
+  - Student at Oregon State University.
+  - Research assistant at CQLS working on infrastructure and operating systems.
+  - Peer tutor helping out with JS, Python, and C. 
+  - Human... maybe... 😉
 
 - 🔭 I’m currently working on ...
   - Writing an interpreter in Go.
