@@ -24,7 +24,8 @@ I'm passionate about software, particularly in machine learning and web developm
     - CS 492: Mobile Web Development (Android Studio!).
 
 - ⚡ Fun fact: ...
-  - I'm studying to be a classical guitarist! Ask me anything about the romantic musical period + South American classical guitar. 
+  - I'm studying to be a classical guitarist! 
+    Ask me anything about the romantic musical period + South American classical guitar. 
 
 <!--
 **domotheawsome/domotheawsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
