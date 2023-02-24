@@ -2,8 +2,6 @@
 
 My name is Ariel.
 
-I'm passionate about software, particularly in machine learning and web development. 
-
 - 🎈 I'm a ...
   - Student at Oregon State University.
   - Research assistant at CQLS working on infrastructure and operating systems.
