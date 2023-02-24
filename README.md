@@ -2,7 +2,7 @@
 
 My name is Ariel.
 
-I'm passionate about creating, writing and imagining software, particularly in machine learning and web development. 
+I'm passionate about creating, writing and imagining software, particularly in the areas of machine learning and web development. 
 
 - 🎈 I'm a ...
   - Student at <a href="https://oregonstate.edu/">Oregon State University</a>.
