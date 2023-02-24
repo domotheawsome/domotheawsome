@@ -7,7 +7,7 @@ I'm passionate about creating, writing and imagining software, particularly in m
 - 🎈 I'm a ...
   - Student at <a href="https://oregonstate.edu/">Oregon State University</a>.
   - Research assistant at <a href="https://cqls.oregonstate.edu/biocomputing">CQLS</a> working on infrastructure and operating systems.
-  - Peer tutor helping out with JS, Python, and C. 
+  - Peer tutor at <a href="https://engineering.oregonstate.edu/">COE</a> helping out with JS, Python, and C. 
   - Human... maybe... 😉
 
 - 🔭 I’m currently working on ...
