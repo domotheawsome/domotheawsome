@@ -25,7 +25,7 @@ I'm passionate about creating, writing and imagining software, particularly with
 
 - ⚡ Fun fact: ...
   - I play classical guitar!
-    Ask me anything about the romantic musical period + South American classical guitar. 
+    Ask me about the romantic musical period + South American classical guitar. 
 
 <!--
 **domotheawsome/domotheawsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
